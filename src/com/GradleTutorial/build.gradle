@@ -1,0 +1,12 @@
+//apply plugin : 'java'
+apply plugin : 'application' // It covers application plugin java
+
+repositories{
+    mavenCentral() // To download dependencies from mavenCentral
+}
+
+dependencies{ // Download testng dependencies
+    testCompile group: 'org.testng', name: 'testng', version: '5.7'
+}
+
+mainClassName = 'GradleTutorial.HelloWorld'
