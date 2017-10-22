@@ -9,4 +9,15 @@ dependencies{ // Download testng dependencies
     testCompile group: 'org.testng', name: 'testng', version: '5.7'
 }
 
+/*jar{
+    manifest{
+        attributes 'Main-Class':'HelloWorld'
+    }
+}*/
+
 mainClassName = 'GradleTutorial.HelloWorld'
+
+task codeRun(type: JavaExec) {
+    classpath sourceSets.main.runtimeClasspath
+    main="HelloWorld"
+}
