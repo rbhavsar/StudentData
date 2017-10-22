@@ -1,6 +1,9 @@
 package com.emailapp;
 
+import org.apache.log4j.PropertyConfigurator;
+
 import java.util.Scanner;
+import org.apache.log4j.Logger;
 
 public class Email {
 
@@ -15,9 +18,14 @@ public class Email {
     private int mailBoxCapacity;
     private String alternateEmail;
 
+
+    private final static Logger log = Logger.getLogger(Email.class);
+
     //Constructor for fistName and lastName
     public Email(String firstName,String lastName)
     {
+        PropertyConfigurator.configure("/Users/rbhavsar/StudentData/Data/src/com/emailapp/log4j.properties");
+        log.info("Inserting value for firstname "+firstName+" And lastName"+lastName);
         this.firstName=firstName;
         this.lastName=lastName;
         this.department=setDepartment();
