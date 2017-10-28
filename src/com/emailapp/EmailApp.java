@@ -26,7 +26,7 @@ public class EmailApp {
         log.fatal("This is Fatal");
 
 
-        File file = new File("/Users/rbhavsar/StudentData/Data/src/com/emailapp/application.properties");
+        File file = new File("/Users/rbhavsar/StudentData/Data/src/com/emailapp/application1.properties");
         Properties prop = new Properties();
         FileInputStream fileInput = null;
 
