@@ -4,6 +4,8 @@ public class String1 {
 
     public static void main(String[] args) {
 
+        //Check Revert
+
        String value = everyNth("RaviBhavsar",2);
        //System.out.println("Value :-"+value);
 
