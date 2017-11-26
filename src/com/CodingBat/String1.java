@@ -1,12 +1,8 @@
 package com.CodingBat;
 
-import java.util.*;
-
 public class String1 {
 
     public static void main(String[] args) {
-
-        //Testing
 
        String value = everyNth("RaviBhavsar",2);
        //System.out.println("Value :-"+value);
@@ -27,32 +23,7 @@ public class String1 {
         //System.out.println("count :"+count);
 
         boolean test= doubleX("axbxxc");
-        //System.out.println("test :-"+test);
-
-        checkOccurance("ABCBFA");
-
-
-    }
-
-    public static void checkOccurance(String str)
-    {
-        List<Character> list = new ArrayList<>();
-        int k=0;
-        for(int i=0;i<str.length();i++)
-        {
-            for(int j=i+1;j<str.length();j++)
-            {
-                if(str.charAt(i)==str.charAt(j))
-                {
-                    list.add(str.charAt(i));
-                }
-
-            }
-        }
-
-        System.out.println(list);
-
-
+        System.out.println("test :-"+test);
     }
 
     public static boolean doubleX(String str)
