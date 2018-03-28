@@ -1,6 +1,5 @@
 package com.CodingBat;
 
-import javax.print.DocFlavor;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -13,18 +12,24 @@ public class String2 {
                 "[Description]=[Categories.Description]";
 
 
+
         //System.out.println(xyBalance("xaxxbbyx")) ;
         //System.out.println(mixString("abc", "xyzpq"));
 
+        //doubleChar("The");
+        //System.out.println("flag :"+endOther("Hiabcx", "bc"));
+
 
         //System.out.println(repeatFront("Chocolate", 4));
+        //repeatEnd("Hello",3);
+        System.out.println(getBetweenPizza("xyz"));
 
         //System.out.println(repeatSeparator("Word", "X", 3));
 
 
         //System.out.println(xyzMiddle("AAAAAxyzBBB"));
 
-        //System.out.println(getSandwich("breadAbread"));
+       // System.out.println(getSandwich("breadAbread"));
 
         //System.out.println(sameStarChar("12*2*3*"));
 
@@ -32,7 +37,7 @@ public class String2 {
 
         //System.out.println(zipZap("zipXzap"));
         //System.out.println(starOut("ab**cd"));
-        plusOut("12xy34", "xy");
+        //plusOut("12xy34", "xy");
 
        /* int position = script.indexOf("=", 0);
         System.out.println("position :-"+position);
@@ -60,6 +65,88 @@ public class String2 {
             position = dotIndex;
         }
         //System.out.println("Sources "+sources);
+    }
+
+    private static String getBetweenPizza(String str) {
+
+        int pos=0;
+        int count=0;
+        int first=0;
+        int last=0;
+        while(pos>=0)
+        {
+            pos=str.indexOf("pizza",pos);
+            if(pos<=-1) break;
+            count++;
+            if(count==1)
+            {
+                first = pos;
+            }
+            if(count>=2)
+            {
+                last = pos;
+            }
+            pos++;
+        }
+
+        if(count>=2)
+        {
+           return str.substring(first+5,last);
+        }
+        else
+        {
+            return "";
+        }
+    }
+
+    private static String repeatEnd(String str, int n) {
+
+        String rep = str.substring(str.length()-n,str.length());
+        StringBuilder sb=new StringBuilder();
+        while(n>=1)
+        {
+            sb.append(rep);
+            n--;
+        }
+        //System.out.println(sb.toString());
+        return sb.toString();
+    }
+
+    private static boolean endOther(String a, String b) {
+
+        a = a.toLowerCase();
+        int lenA=a.length()-1;
+        b = b.toLowerCase();
+        int lenB=b.length()-1;
+        boolean flagB=true;
+        boolean flagA=true;
+        boolean flag=false;
+
+        if(a.contains(b))
+        {
+            System.out.println("b is in a "+flagB);
+            return flagB;
+        }
+        if(b.contains(a))
+        {
+            System.out.println("a is in b"+flagA);
+
+            return  flagA;
+        }
+        return flag;
+
+    }
+
+    private static void doubleChar(String str) {
+
+        StringBuilder sb=new StringBuilder();
+        for(int i=0;i<str.length();i++)
+        {
+            sb.append(str.charAt(i));
+            sb.append(str.charAt(i));
+        }
+
+        System.out.println(sb.toString());
     }
 
     public static String plusOut(String str,String word)
@@ -303,6 +390,16 @@ public class String2 {
         return sb.toString();
     }
 
+    public String mashUpString(String a, String b) {
+        StringBuilder sb=new StringBuilder();
+        for (int i = 0; i < a.length(); i++) {
+            sb.append(a.charAt(i));
+            sb.append(b.charAt(i));
+        }
+        return sb.toString();
+    }
+
+
     public static String mixString(String a,String b) {
         StringBuilder sb = new StringBuilder();
         if(a.length()==0 && b.length()!=0)
@@ -332,7 +429,7 @@ public class String2 {
             sb.append(a.substring(b.length(), a.length()));
         }
 
-        if(a.length()>b.length()) {
+        if(a.length()==b.length()) {
             for (int i = 0; i < a.length(); i++) {
                 sb.append(a.charAt(i));
                 sb.append(b.charAt(i));
@@ -341,6 +438,8 @@ public class String2 {
 
         return sb.toString();
     }
+
+
 
 
     public static boolean xyBalance(String str){

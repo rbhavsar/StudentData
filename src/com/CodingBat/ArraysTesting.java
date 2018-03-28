@@ -7,6 +7,15 @@ import java.util.*;
 public class ArraysTesting {
 
     public static void main(String[] args) {
+
+        char[] balls = { 'R', 'R', 'W', 'B', 'W', 'R', 'W' };
+        /*arrange(balls);
+        for (int i=0; i < balls.length; i++) {
+            System.out.print(balls[i] + " ");
+        }*/
+
+        orders(balls);
+
         int[] nums = {0,1,7,2,7,1};
         int[] numbers = {7, 1, 2, 9, 7, 2, 1};
         //maxMirror(numbers);
@@ -22,6 +31,25 @@ public class ArraysTesting {
 
         int[] arry1 = {1,2,3};
         int[] arry2 = {2,3,10};
+
+        int[] my_array1 = {
+                1789, 2035, 1899, 1456, 2013};
+        System.out.println("Original array : "+Arrays.toString(my_array1));
+        /*for(int i = 0; i < my_array1.length / 2; i++)
+        {
+            int temp = my_array1[i];
+            my_array1[i] = my_array1[my_array1.length - i - 1];
+            my_array1[my_array1.length - i - 1] = temp;
+        }*/
+
+
+        //reverse(my_array1);
+        //secondMax(my_array1);
+        //secondSmall(my_array1);
+
+        int[] arr = {1,2,0,3,0,1,0,9};
+        moveZero(arr);
+
 
         //System.out.println(macthUp(arry1,arry2));
 
@@ -57,7 +85,7 @@ public class ArraysTesting {
         int palindromNumber = 123;
         //palindrome(palindromNumber);
 
-        System.out.println(catDog("catdog"));
+        //System.out.println(catDog("catdog"));
 
 
        /*int[] temp= squareUp_Old(3);
@@ -100,6 +128,156 @@ public class ArraysTesting {
         //System.out.println(moreY(values));
 
     }
+
+    private static void orders(char[] balls) {
+
+        Hashtable<Character,Integer> table = new Hashtable<Character, Integer>();
+        table.put('R',0);
+        table.put('B',0);
+        table.put('W',0);
+
+        for(int i=0;i<balls.length;i++)
+        {
+            char myballColor = balls[i];
+            int value = table.get(myballColor);
+            value++;
+            table.put(myballColor,value);
+        }
+
+        int number_r = table.get('R');
+        int number_b = table.get('B');
+        int number_w = table.get('W');
+        int curidx=0;
+
+       // while(number_r > 0 || number_b > 0 || number_w > 0){
+        for(;(number_r > 0 || number_b > 0 || number_w > 0);) {
+            if (number_r > 0) {
+                balls[curidx] = 'R';
+                number_r--;
+                curidx++;
+                continue;
+            }
+            if (number_b > 0) {
+                balls[curidx] = 'B';
+                number_b--;
+                curidx++;
+                continue;
+            }
+            if (number_w > 0) {
+                balls[curidx] = 'W';
+                number_w--;
+                curidx++;
+                continue;
+            }
+            //}
+        }
+        System.out.println(balls);
+
+    }
+
+    // R first, B middle, white last
+    public static void arrange(char[] balls){
+        int ridx = 0;
+        int widx = balls.length-1;
+
+        for(int curridx=0;  curridx < balls.length; curridx++){
+            if (balls[curridx] == 'R'){
+                swap(balls, curridx, ridx);
+                ridx++;
+            }
+            if (balls[curridx] == 'W'){
+                // First we need to search for the next white ball.
+                while( widx >= curridx && balls[widx] == 'W' ){
+                    widx--;
+                }
+                if(widx >= curridx && balls[widx] != 'W'){
+                    swap(balls, curridx, widx);
+                    widx--;
+                }
+                if(balls[curridx] == 'R'){
+                    swap(balls, curridx, ridx);
+                    ridx++;
+                }
+            }
+        }
+    }
+
+    public static void swap(char[] balls, int a, int b){
+        char temp=balls[a];
+        balls[a]=balls[b];
+        balls[b]=temp;
+    }
+
+    private static void moveZero(int[] arr) {
+
+        int[] finalArr = new int[arr.length];
+        int j=0;
+        for(int i=0;i<arr.length;i++)
+        {
+            if(arr[i]!=0)
+            {
+                finalArr[j]=arr[i];
+                j++;
+            }
+        }
+        System.out.println(Arrays.toString(finalArr));
+
+    }
+
+    private static void secondSmall(int[] my_array1) {
+        int min=my_array1[0];
+        int secondMin=my_array1[0];
+
+        ///2,1,3,4
+
+        for(int i=0;i<my_array1.length;i++)
+        {
+            if(my_array1[i]<min) // 3<1
+            {
+                secondMin=min; // sec = 2
+                min=my_array1[i];// min = 1
+            }
+            else if(my_array1[i]<secondMin) //3<2
+            {
+                    secondMin=my_array1[i];
+            }
+        }
+        System.out.println("min "+min);
+        System.out.println("secondMin "+secondMin);
+    }
+
+    private static void secondMax(int[] my_array1) {
+       int max=my_array1[0];
+       int secondMax=my_array1[0];
+
+       for(int i=0;i<my_array1.length;i++)
+       {
+           if(my_array1[i]>max)
+           {
+               secondMax=max;
+               max=my_array1[i];
+           }
+           else if(my_array1[i]>secondMax)
+           {
+               secondMax = my_array1[i];
+           }
+       }
+        System.out.println("max "+max);
+        System.out.println("secondmax "+secondMax);
+
+    }
+
+    public static void reverse(int[] my_array1)
+    {
+        for(int i = 0; i < my_array1.length / 2; i++)
+        {
+            int temp = my_array1[i];
+            my_array1[i] = my_array1[my_array1.length - i - 1];
+            my_array1[my_array1.length - i - 1] = temp;
+        }
+        System.out.println("Reverse array : "+Arrays.toString(my_array1));
+    }
+
 
     public static boolean catDog(String str)
     {

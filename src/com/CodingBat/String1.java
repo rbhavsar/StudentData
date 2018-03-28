@@ -4,6 +4,8 @@ public class String1 {
 
     public static void main(String[] args) {
 
+        //Check stash 123
+        
        String value = everyNth("RaviBhavsar",2);
        //System.out.println("Value :-"+value);
 
@@ -17,13 +19,21 @@ public class String1 {
         //System.out.println("Str :"+str);
 
         String str = frontTimes("Chocolate",3);
-        System.out.println("str :"+str);
+        //System.out.println("str :"+str);
 
         //int count = countXX("abcxx");
         //System.out.println("count :"+count);
 
         boolean test= doubleX("axbxxc");
-        System.out.println("test :-"+test);
+        //System.out.println("test :-"+test);
+
+        doThis("3[a]2[b]");
+    }
+
+    private static void doThis(String str) {
+        for(int i = -1; (i = str.indexOf("[", i + 1)) != -1; i++) {
+            System.out.println(i);
+        } // prints "4", "13", "22"
     }
 
     public static boolean doubleX(String str)
