@@ -25,8 +25,6 @@ public class Regex {
     //System.out.println("matches(): "+matcher.matches());
 
     System.out.println("matches(): "+matcher.matches());
-
-    System.out.println("Error");
   }
 
 
