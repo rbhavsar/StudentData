@@ -1,4 +1,4 @@
-package com.Serialization;
+package src.com.Serialization;
 
 public class Student {
 

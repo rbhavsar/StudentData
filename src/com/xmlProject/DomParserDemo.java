@@ -1,4 +1,4 @@
-package com.xmlProject;
+package src.com.xmlProject;
 
 import java.io.File;
 import javax.xml.parsers.DocumentBuilder;

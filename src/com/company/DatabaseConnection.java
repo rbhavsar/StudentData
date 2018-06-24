@@ -1,4 +1,4 @@
-package com.company;
+package src.com.company;
 
 import java.sql.*;
 import java.sql.DriverManager;

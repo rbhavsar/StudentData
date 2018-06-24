@@ -1,4 +1,4 @@
-package com.bankaccontapp;
+package src.com.bankaccontapp;
 
 import java.io.IOException;
 import java.util.LinkedList;
@@ -33,7 +33,7 @@ public class BankAccountApp {
 
 
         //Read file then create new Account on that data
-        String file = "/Users/rbhavsar/StudentData/Data/src/com/bankaccontapp/NewAccountDetail.csv";
+        String file = "/Users/rbhavsar/StudentData/src/com/bankaccontapp/NewAccountDetail.csv";
 
         try {
             List<String[]> newAccountHolders = CSV.read(file);

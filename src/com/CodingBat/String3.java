@@ -1,4 +1,4 @@
-package com.CodingBat;
+package src.com.CodingBat;
 
 
 /*Can you write parsing code for the below:

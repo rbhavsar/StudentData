@@ -1,4 +1,4 @@
-package com.Serialization;
+package src.com.Serialization;
 
 import java.beans.XMLEncoder;
 import java.io.BufferedOutputStream;

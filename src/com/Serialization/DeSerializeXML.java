@@ -1,4 +1,4 @@
-package com.Serialization;
+package src.com.Serialization;
 
 import java.beans.XMLDecoder;
 import java.io.BufferedInputStream;

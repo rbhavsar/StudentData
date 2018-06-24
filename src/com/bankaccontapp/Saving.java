@@ -1,4 +1,4 @@
-package com.bankaccontapp;
+package src.com.bankaccontapp;
 
 public class Saving extends Account{
 

@@ -1,4 +1,4 @@
-package com.emailapp;
+package src.com.emailapp;
 import org.apache.log4j.Logger;
 
 

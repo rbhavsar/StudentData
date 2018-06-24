@@ -1,4 +1,4 @@
-package com.CodingBat;
+package src.com.CodingBat;
 
 import sun.awt.image.ImageWatched;
 
