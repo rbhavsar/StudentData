@@ -5,7 +5,7 @@ public class String1 {
     public static void main(String[] args) {
 
         //Check stash 123
-        
+        //Test
        String value = everyNth("RaviBhavsar",2);
        //System.out.println("Value :-"+value);
 
