@@ -28,8 +28,13 @@
       <file leaf-file-name="String1Copy.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="120">
               <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+=======
+            <state relative-caret-position="105">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+>>>>>>> eebc9fe2c7f593a0d29a40cb8ff25ad36375a546
             </state>
           </provider>
         </entry>
@@ -616,8 +621,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="120">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+=======
+        <state relative-caret-position="105">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+>>>>>>> eebc9fe2c7f593a0d29a40cb8ff25ad36375a546
         </state>
       </provider>
     </entry>
