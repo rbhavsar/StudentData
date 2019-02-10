@@ -6,10 +6,7 @@ public class String1 {
 
         //Check stash 123
         //Test
-<<<<<<< HEAD
-        //com.com , com.com
-=======
->>>>>>> eebc9fe2c7f593a0d29a40cb8ff25ad36375a546
+            
        String value = everyNth("RaviBhavsar",2);
        //System.out.println("Value :-"+value);
 
