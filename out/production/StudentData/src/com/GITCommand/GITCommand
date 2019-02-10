@@ -1,0 +1,262 @@
+Mac Command & Git Command
+
+- mkdir - create new dir
+- vim - eidt file
+- touch or nano - create file
+- ls - list file
+- pwd - current directory 
+- cd .. - step out from working directory
+
+
+Last login: Fri Nov 24 20:53:47 on ttys003
+sfo0-rbhavsa-01:~ rbhavsar$ pwd
+/Users/rbhavsar
+sfo0-rbhavsa-01:~ rbhavsar$ pwd
+/Users/rbhavsar
+sfo0-rbhavsa-01:~ rbhavsar$ cd /Users/rbhavsar/StudentData
+sfo0-rbhavsa-01:StudentData rbhavsar$ cd AI
+sfo0-rbhavsa-01:AI rbhavsar$ cd /Users/rbhavsar/StudentData/AI/src/test/java
+sfo0-rbhavsa-01:java rbhavsar$ git init
+Initialized empty Git repository in /Users/rbhavsar/StudentData/AI/src/test/java/.git/
+sfo0-rbhavsa-01:java rbhavsar$ nano helloworld.txt
+sfo0-rbhavsa-01:java rbhavsar$ 
+sfo0-rbhavsa-01:java rbhavsar$ ls
+Mockito			RestAssured		TestNGListener
+ObjectMapper		StockMockitoTest
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Mockito/
+	ObjectMapper/
+	RestAssured/
+	StockMockitoTest/
+	TestNGListener/
+
+nothing added to commit but untracked files present (use "git add" to track)
+sfo0-rbhavsa-01:java rbhavsar$ nano helloworld
+sfo0-rbhavsa-01:java rbhavsar$ ls
+Mockito			RestAssured		TestNGListener
+ObjectMapper		StockMockitoTest	helloworld
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Mockito/
+	ObjectMapper/
+	RestAssured/
+	StockMockitoTest/
+	TestNGListener/
+	helloworld
+
+nothing added to commit but untracked files present (use "git add" to track)
+sfo0-rbhavsa-01:java rbhavsar$ git add helloworld.txt
+fatal: pathspec 'helloworld.txt' did not match any files
+sfo0-rbhavsa-01:java rbhavsar$ git add helloworld
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   helloworld
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Mockito/
+	ObjectMapper/
+	RestAssured/
+	StockMockitoTest/
+	TestNGListener/
+
+sfo0-rbhavsa-01:java rbhavsar$ git commit -m "Initial Commit"
+[master (root-commit) 0f8f372] Initial Commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 helloworld
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Mockito/
+	ObjectMapper/
+	RestAssured/
+	StockMockitoTest/
+	TestNGListener/
+
+nothing added to commit but untracked files present (use "git add" to track)
+sfo0-rbhavsa-01:java rbhavsar$ git checkout -b newfeature
+Switched to a new branch 'newfeature'
+sfo0-rbhavsa-01:java rbhavsar$ git checkout newfeature
+Already on 'newfeature'
+sfo0-rbhavsa-01:java rbhavsar$ git branch
+  master
+* newfeature
+sfo0-rbhavsa-01:java rbhavsar$ nano newfeature.txt
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch newfeature
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	Mockito/
+	ObjectMapper/
+	RestAssured/
+	StockMockitoTest/
+	TestNGListener/
+	newfeature.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+sfo0-rbhavsa-01:java rbhavsar$ git add .
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch newfeature
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   Mockito/CalculatorTest.java
+	new file:   ObjectMapper/EmployeeTest.java
+	new file:   ObjectMapper/car.json
+	new file:   ObjectMapper/carReader.json
+	new file:   RestAssured/WheatherGetRequests.java
+	new file:   StockMockitoTest/PortfolioTester.java
+	new file:   TestNGListener/TestCase.java
+	new file:   TestNGListener/TestNGListenerDemo.java
+	new file:   TestNGListener/listener.xml
+	new file:   newfeature.txt
+
+sfo0-rbhavsa-01:java rbhavsar$ git commit -a -m "newfeature"
+[newfeature ea962b4] newfeature
+ 10 files changed, 529 insertions(+)
+ create mode 100644 Mockito/CalculatorTest.java
+ create mode 100644 ObjectMapper/EmployeeTest.java
+ create mode 100644 ObjectMapper/car.json
+ create mode 100644 ObjectMapper/carReader.json
+ create mode 100755 RestAssured/WheatherGetRequests.java
+ create mode 100644 StockMockitoTest/PortfolioTester.java
+ create mode 100644 TestNGListener/TestCase.java
+ create mode 100644 TestNGListener/TestNGListenerDemo.java
+ create mode 100644 TestNGListener/listener.xml
+ create mode 100644 newfeature.txt
+sfo0-rbhavsa-01:java rbhavsar$ git checkout master
+Switched to branch 'master'
+sfo0-rbhavsa-01:java rbhavsar$ git merge newfeature
+Updating 0f8f372..ea962b4
+Fast-forward
+ Mockito/CalculatorTest.java            |  32 ++++
+ ObjectMapper/EmployeeTest.java         |  53 ++++++
+ ObjectMapper/car.json                  |   1 +
+ ObjectMapper/carReader.json            |   1 +
+ RestAssured/WheatherGetRequests.java   | 298 +++++++++++++++++++++++++++++++++
+ StockMockitoTest/PortfolioTester.java  |  51 ++++++
+ TestNGListener/TestCase.java           |  23 +++
+ TestNGListener/TestNGListenerDemo.java |  48 ++++++
+ TestNGListener/listener.xml            |  21 +++
+ newfeature.txt                         |   1 +
+ 10 files changed, 529 insertions(+)
+ create mode 100644 Mockito/CalculatorTest.java
+ create mode 100644 ObjectMapper/EmployeeTest.java
+ create mode 100644 ObjectMapper/car.json
+ create mode 100644 ObjectMapper/carReader.json
+ create mode 100755 RestAssured/WheatherGetRequests.java
+ create mode 100644 StockMockitoTest/PortfolioTester.java
+ create mode 100644 TestNGListener/TestCase.java
+ create mode 100644 TestNGListener/TestNGListenerDemo.java
+ create mode 100644 TestNGListener/listener.xml
+ create mode 100644 newfeature.txt
+sfo0-rbhavsa-01:java rbhavsar$ nano index.html
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	index.html
+
+nothing added to commit but untracked files present (use "git add" to track)
+sfo0-rbhavsa-01:java rbhavsar$ nano .gitignore
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.gitignore
+
+nothing added to commit but untracked files present (use "git add" to track)
+sfo0-rbhavsa-01:java rbhavsar$ git add .
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   .gitignore
+
+sfo0-rbhavsa-01:java rbhavsar$ git commit -m "Added .gitignore"
+[master 8481196] Added .gitignore
+ 1 file changed, 1 insertion(+)
+ create mode 100644 .gitignore
+sfo0-rbhavsa-01:java rbhavsar$ nano removeMe.txt
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	removeMe.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+sfo0-rbhavsa-01:java rbhavsar$ git add .
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   removeMe.txt
+
+sfo0-rbhavsa-01:java rbhavsar$ rm removeMe.txt 
+sfo0-rbhavsa-01:java rbhavsar$ git status
+On branch master
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   removeMe.txt
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    removeMe.txt
+
+sfo0-rbhavsa-01:java rbhavsar$ git rm removeMe.tat
+fatal: pathspec 'removeMe.tat' did not match any files
+sfo0-rbhavsa-01:java rbhavsar$ git rm removeMe.txt
+rm 'removeMe.txt'
+sfo0-rbhavsa-01:java rbhavsar$ git rm -f removeMe.txt
+fatal: pathspec 'removeMe.txt' did not match any files
+sfo0-rbhavsa-01:java rbhavsar$ git log
+commit 84811965d3478adc8bf9ff932ea20ef4994e1e3f
+Author: Ravi Bhavsar <rbhavsar@birst.com>
+Date:   Sat Nov 25 01:58:16 2017 -0800
+
+    Added .gitignore
+
+commit ea962b4a5f2185d6048c73a4011e6387ea378b95
+Author: Ravi Bhavsar <rbhavsar@birst.com>
+Date:   Sat Nov 25 01:51:31 2017 -0800
+
+    newfeature
+
+commit 0f8f37255a2a8cae4fee1fafbf55c7ed512774eb
+Author: Ravi Bhavsar <rbhavsar@birst.com>
+Date:   Sat Nov 25 01:27:46 2017 -0800
+
+    Initial Commit
+sfo0-rbhavsa-01:java rbhavsar$ 
+
