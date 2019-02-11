@@ -8,6 +8,7 @@ public class String1 {
         //Test
         //For testing purpose
         //Pizza
+        //Burger
        String value = everyNth("RaviBhavsar",2);
        //System.out.println("Value :-"+value);
 
