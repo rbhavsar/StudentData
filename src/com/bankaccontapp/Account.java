@@ -30,6 +30,7 @@ public abstract class Account implements IBaseRate {
         System.out.println("Balance :"+balance);*/
 
         System.out.println("Apple");
+        System.out.println("Banana");
         //System.out.print("NEW ACCOUNT , ");
     }
 
