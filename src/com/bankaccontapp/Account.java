@@ -4,7 +4,6 @@ public abstract class Account implements IBaseRate {
 
     //Can't create object
     //test1
-    //jung food
     //List Common propeties for Saving and checking account
     private String name;
     private String ssn;
