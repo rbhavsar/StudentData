@@ -13,6 +13,10 @@ public abstract class Account implements IBaseRate {
         Ravi Bhavsar
      */
 
+    /*
+        Kinisha
+     */
+
     protected String accountNumber;
 
     static int index = 10000;
