@@ -5,6 +5,9 @@ public abstract class Account implements IBaseRate {
     //Can't create object
     //test1
     //List Common propeties for Saving and checking account
+    /*
+        Ravi
+     */
     private String name;
     private String ssn;
     private double balance;
