@@ -1,11 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8fb10012-f3a2-4c01-b9ba-abedd8432474" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/CodingBat/String1Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/CodingBat/String1Copy.java" afterDir="false" />
+    <list default="true" id="029088e8-eea4-4c22-a750-1887cc5d8f08" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentData.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/libraries/jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/StudentData.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/Multithreading/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/Multithreading/Hi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/Multithreading/ThreadDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/utilities/CSV.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/xmlProject/CreateXmlFileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/jar/log4j-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/jar/sqljdbc4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/lib/hamcrest-core-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/lib/junit-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Array22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Array3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/ArraysTesting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/CollectionChallenge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/CondingProblems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Recursion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Regex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/TestCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/GITCommand/GITCommand" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/AddStudents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/CheckDbConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/LoginModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/StudentData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/dbConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/College.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/DeSerializeXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/SerializeXML.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/BankAccountApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/Checking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/IBaseRate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/NewAccountDetail.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/Saving.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/company/DatabaseConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/company/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/company/StudentDatabaseApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/Application.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/Email.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/EmailApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/DomParserDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/ModifyXmlFileDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/create.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/input.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/modifyInput.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,59 +84,395 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StudentData" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StudentData" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="String1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RemoveElementCollection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
+            <state relative-caret-position="390">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String1Copy.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java">
+      <file leaf-file-name="GlobalVar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state relative-caret-position="120">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-=======
-            <state relative-caret-position="105">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
->>>>>>> eebc9fe2c7f593a0d29a40cb8ff25ad36375a546
+            <state relative-caret-position="240">
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>com.CodingBat</find>
-      <find>evenOdd</find>
-      <find>duplicateValue</find>
-      <find>duplicate_HashSet</find>
-      <find>findMissingNumber</find>
-      <find>bigDiff_V2</find>
-      <find>centeredAvg</find>
-      <find>sum13_v2</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/com</dir>
-    </dirStrings>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/Documents/gradle-4.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.8" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="StudentData" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="StudentData" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'StudentData'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'StudentData'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'StudentData'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'StudentData'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'StudentData'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'StudentData'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'StudentData'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'StudentData'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'StudentData'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1549781416000" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="StudentData" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/ide" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/platform-native" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/reporting" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/language-groovy" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/build-option" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/launcher" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/platform-base" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/announce" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/signing" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/core" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/installation-beacon" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/jvm-services" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/native" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/tooling-api" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/platform-play" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/ivy" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/wrapper" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/process-services" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/plugins" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/antlr" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/plugin-use" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/language-jvm" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/maven" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/testing-base" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/resources" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/version-control" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/osgi" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/testing-junit-platform" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/resources-http" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/internal-testing" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/composite-builds" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/model-groovy" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/test-kit" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/cli" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/build-init" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/ear" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/jacoco" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/persistent-cache" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/build-comparison" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/publish" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/platform-jvm" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/resources-sftp" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/base-services" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/model-core" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/scala" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/diagnostics" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/dependency-management" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/ide-play" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/workers" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/code-quality" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/language-java" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/build-cache" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/plugin-development" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/core-api" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/javascript" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/resources-gcs" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/testing-native" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/internal-performance-testing" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/ide-native" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/base-services-groovy" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/messaging" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/testing-jvm" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/logging" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/language-scala" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/language-native" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/resources-s3" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/internal-android-performance-testing" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/src/build-cache-http" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-model-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-resources-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-tooling-api-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-kotlin-dsl-tooling-builders-0.17.5.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-core-api-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/ant-1.9.11.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-persistent-cache-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-docs-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-cli-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-launcher-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/ant-launcher-1.9.11.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-jvm-services-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-messaging-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/groovy-all-2.4.12.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-build-option-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-kotlin-dsl-provider-spi-0.17.5.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-base-services-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-core-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-kotlin-dsl-0.17.5.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-model-core-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-base-services-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-installation-beacon-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-process-services-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-kotlin-dsl-tooling-models-0.17.5.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-build-cache-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-kotlin-dsl-provider-plugins-0.17.5.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-runtime-api-info-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-native-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-logging-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/gradle-wrapper-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-build-init-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-testing-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-testing-base-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-platform-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-maven-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-code-quality-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-resources-s3-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-signing-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-resources-sftp-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-ivy-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-test-kit-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-language-java-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-language-groovy-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-osgi-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-reporting-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-antlr-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-resources-gcs-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-ide-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-platform-play-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-resources-http-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-scala-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-testing-native-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-dependency-management-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-composite-builds-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-testing-junit-platform-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-publish-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-ear-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-language-jvm-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-platform-base-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-ide-native-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-diagnostics-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-plugin-development-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-workers-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-build-cache-http-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-javascript-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-version-control-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-language-native-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-build-comparison-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-plugins-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-jacoco-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-platform-native-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-plugin-use-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-announce-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-tooling-api-builders-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-ide-play-4.8.jar" />
+                  <option value="$USER_HOME$/Documents/gradle-4.8/lib/plugins/gradle-language-scala-4.8.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Projects/Java-8-Lambda-Basics-master" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Projects/JavaMultiThreading-master/JavaMultiThreadingCodes" value="PREVIEW" />
+        <entry key="$USER_HOME$/Documents/Projects/MyBatisDemo" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/ION1 2" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/OAuth1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/builder1" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads/src" value="PREVIEW" />
+        <entry key="$USER_HOME$/MockitoTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/MockitoTestOrderProcessingService" value="PREVIEW" />
+        <entry key="$USER_HOME$/MockitoTest_" value="PREVIEW" />
+        <entry key="$USER_HOME$/PowerMockitoTest" value="PREVIEW" />
+        <entry key="$USER_HOME$/PowerMockitoTests" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="IMPORT" />
         <entry key="$PROJECT_DIR$/src" value="PREVIEW" />
         <entry key="$USER_HOME$/birst" value="PREVIEW" />
         <entry key="$USER_HOME$/btm" value="PREVIEW" />
         <entry key="$USER_HOME$/btm-tests" value="PREVIEW" />
+        <entry key="$USER_HOME$/chef-repo" value="PREVIEW" />
+        <entry key="$USER_HOME$/corejava" value="PREVIEW" />
+        <entry key="$USER_HOME$/fujita" value="PREVIEW" />
+        <entry key="$USER_HOME$/google-guice-tutorials" value="PREVIEW" />
+        <entry key="$USER_HOME$/oauth1-signer-java" value="PREVIEW" />
         <entry key="$USER_HOME$/qa" value="PREVIEW" />
         <entry key="$USER_HOME$/qa/UIAutomator" value="PREVIEW" />
       </map>
@@ -75,49 +481,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/CodingBat/Array3.java" />
-        <option value="$PROJECT_DIR$/src/com/bankaccontapp/Account.java" />
-        <option value="$PROJECT_DIR$/src/com/bankaccontapp/IBaseRate.java" />
-        <option value="$PROJECT_DIR$/src/com/bankaccontapp/Checking.java" />
-        <option value="$PROJECT_DIR$/src/com/bankaccontapp/Saving.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/Array22.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/ArraysTesting.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/CollectionChallenge.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/CondingProblems.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/Recursion.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/Regex.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/String1.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/String2.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/String3.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/String22.java" />
-        <option value="$PROJECT_DIR$/src/com/CodingBat/TestCode.java" />
-        <option value="$PROJECT_DIR$/src/com/company/DatabaseConnection.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/company/StudentDatabaseApp.java" />
-        <option value="$PROJECT_DIR$/src/com/emailapp/Email.java" />
-        <option value="$PROJECT_DIR$/src/com/emailapp/EmailApp.java" />
-        <option value="$PROJECT_DIR$/src/com/GradleTutorial/HelloWorld.java" />
-        <option value="$PROJECT_DIR$/src/com/SchoolSystem/AddStudents.java" />
-        <option value="$PROJECT_DIR$/src/com/SchoolSystem/App.java" />
-        <option value="$PROJECT_DIR$/src/com/SchoolSystem/CheckDbConnection.java" />
-        <option value="$PROJECT_DIR$/src/com/SchoolSystem/dbConnection.java" />
-        <option value="$PROJECT_DIR$/src/com/SchoolSystem/LoginModel.java" />
-        <option value="$PROJECT_DIR$/src/com/SchoolSystem/StudentData.java" />
-        <option value="$PROJECT_DIR$/src/com/Serialization/College.java" />
-        <option value="$PROJECT_DIR$/src/com/Serialization/DeSerializeXML.java" />
-        <option value="$PROJECT_DIR$/src/com/Serialization/SerializeXML.java" />
-        <option value="$PROJECT_DIR$/src/com/Serialization/Student.java" />
-        <option value="$PROJECT_DIR$/src/com/xmlProject/DomParserDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/xmlProject/ModifyXmlFileDemo.java" />
-        <option value="$PROJECT_DIR$/src/com/bankaccontapp/BankAccountApp.java" />
+        <option value="$PROJECT_DIR$/src/com/bankaccontapp/REgex.java" />
         <option value="$PROJECT_DIR$/src/com/CodingBat/String1Copy.java" />
+        <option value="$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java" />
+        <option value="$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java" />
+        <option value="$PROJECT_DIR$/src/com/bankaccontapp/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/bankaccontapp/Main1.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="772" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="813" />
+    <option name="width" value="668" />
+    <option name="height" value="737" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -125,43 +502,31 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="StudentData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentData" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentData" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="StudentData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentData" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentData" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudentData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentData" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudentData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudentData" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="CodingBat" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/CodingBat" />
-    </key>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.32413793" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -175,14 +540,36 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.com.bankaccontapp.BankAccountApp" />
+  <component name="RunManager" selected="Application.Main1">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.bankaccontapp.Main" />
       <module name="StudentData" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="src.com.bankaccontapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.bankaccontapp.Main1" />
+      <module name="StudentData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.bankaccontapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="RemoveElementCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.CodingBat.RemoveElementCollection" />
+      <module name="StudentData" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.CodingBat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -228,9 +615,16 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.RemoveElementCollection" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main1" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankAccountApp" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.RemoveElementCollection" />
       </list>
     </recent_temporary>
   </component>
@@ -239,408 +633,242 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8fb10012-f3a2-4c01-b9ba-abedd8432474" name="Default" comment="" />
-      <created>1529867354953</created>
+      <changelist id="029088e8-eea4-4c22-a750-1887cc5d8f08" name="Default" comment="" />
+      <created>1577307957040</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1529867354953</updated>
+      <updated>1577307957040</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="813" extended-state="6" />
+    <frame x="772" y="23" width="668" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="DB Browser" order="2" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info id="DB Browser" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32977304" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3026166" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.38249594" />
+      <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49905124" visible="true" weight="0.19648562" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Gradle" order="6" sideWeight="0.49801588" weight="0.28518972" />
+      <window_info id="Structure" order="1" sideWeight="0.5009488" side_tool="true" weight="0.23891273" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.433526" />
+      <window_info id="Favorites" order="7" sideWeight="0.5009488" side_tool="true" weight="0.23891273" />
+      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.25454545" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32386363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32656023" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5019841" side_tool="true" weight="0.16738197" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/Array3.java">
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1965">
-          <caret line="131" column="25" lean-forward="true" selection-start-line="131" selection-start-column="23" selection-end-line="131" selection-end-column="28" />
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/Array22.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11910">
-          <caret line="794" column="14" lean-forward="true" selection-start-line="794" selection-start-column="14" selection-end-line="794" selection-end-column="14" />
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/College.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/DeSerializeXML.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/Student.java">
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xmlProject/CreateXmlFileDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xmlProject/ModifyXmlFileDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Account.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xmlProject/DomParserDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="390">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/SerializeXML.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/REgex.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SchoolSystem/StudentData.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/BankAccountApp.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1155">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Checking.java">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/IBaseRate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Saving.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/ArraysTesting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/CollectionChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/CondingProblems.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/Recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/Regex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/TestCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/DatabaseConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/StudentDatabaseApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emailapp/Email.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emailapp/EmailApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/GradleTutorial/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/src/com/GradleTutorial/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/SchoolSystem/AddStudents.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SchoolSystem/CheckDbConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SchoolSystem/dbConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SchoolSystem/LoginModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emailapp/Application.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SchoolSystem/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/SchoolSystem/StudentData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/DeSerializeXML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/SerializeXML.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xmlProject/DomParserDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xmlProject/CreateXmlFileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/xmlProject/ModifyXmlFileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/BankAccountApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="80" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Serialization/College.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/Array22.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="754" column="5" selection-start-line="754" selection-start-column="5" selection-end-line="754" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/Array3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state relative-caret-position="120">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-=======
-        <state relative-caret-position="105">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
->>>>>>> eebc9fe2c7f593a0d29a40cb8ff25ad36375a546
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ProjectJDKs.UI">
+      <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <artifact-editor />
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32413793" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StudentData</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32413793" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.32413793" />
               </list>
             </option>
           </splitter-proportions>

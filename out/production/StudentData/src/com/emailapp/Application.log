@@ -1,6 +1,0 @@
-2017-10-22 16:10:23 INFO  EmailApp:16 - ****Start EmailApp*****
-2017-10-22 16:10:23 DEBUG EmailApp:17 - Debug Message
-2017-10-22 16:10:23 WARN  EmailApp:18 - This is Warn
-2017-10-22 16:10:23 ERROR EmailApp:19 - This is an Error 
-2017-10-22 16:10:23 FATAL EmailApp:20 - This is Fatal
-2017-10-22 16:10:23 INFO  Email:28 - Inserting value for firstnameRavi And lastNameBhavsar
