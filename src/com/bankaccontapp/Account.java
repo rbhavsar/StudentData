@@ -3,7 +3,7 @@ package src.com.bankaccontapp;
 public abstract class Account implements IBaseRate {
 
     //Can't create object
-
+    //test
     //List Common propeties for Saving and checking account
     private String name;
     private String ssn;
