@@ -28,9 +28,7 @@ public abstract class Account implements IBaseRate {
         this.accountNumber=setAccountNumber();
         //System.out.println("BaseRate "+getBaseRate());
         setRate();
-        System.out.println("Pizza");
-        System.out.println("Pizza1");
-        System.out.println("Burger");
+        
         /*System.out.println("Name : "+name);
         System.out.println("SSN :"+ssn);
         System.out.println("Balance :"+balance);*/
