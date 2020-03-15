@@ -4,76 +4,6 @@
     <list default="true" id="029088e8-eea4-4c22-a750-1887cc5d8f08" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudentData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/StudentData.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/libraries/jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/StudentData.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/Multithreading/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/Multithreading/Hi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/Multithreading/ThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/utilities/CSV.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/com/xmlProject/CreateXmlFileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/jar/log4j-1.2.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/jar/sqljdbc4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/lib/junit-4.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Array22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Array3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/ArraysTesting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/CollectionChallenge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/CondingProblems.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Recursion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/Regex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/String3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/CodingBat/TestCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/GITCommand/GITCommand" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/AddStudents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/CheckDbConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/LoginModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/StudentData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/config.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/SchoolSystem/dbConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/College.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/DeSerializeXML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/SerializeXML.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/Serialization/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/BankAccountApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/Checking.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/IBaseRate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/NewAccountDetail.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/bankaccontapp/Saving.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/company/DatabaseConnection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/company/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/company/StudentDatabaseApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/Application.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/Email.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/EmailApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/emailapp/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/DomParserDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/ModifyXmlFileDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/create.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/input.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/StudentData/src/com/xmlProject/modifyInput.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -95,62 +25,17 @@
         <task path="$PROJECT_DIR$">
           <activation />
         </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="StudentData" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="StudentData" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
+        <projects_view />
       </state>
     </system>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RemoveElementCollection.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GlobalVar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="75">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -487,15 +372,17 @@
         <option value="$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java" />
         <option value="$PROJECT_DIR$/src/com/bankaccontapp/Main.java" />
         <option value="$PROJECT_DIR$/src/com/bankaccontapp/Main1.java" />
+        <option value="$PROJECT_DIR$/src/com/bankaccontapp/Account.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="772" />
+    <option name="x" value="644" />
     <option name="y" value="23" />
-    <option name="width" value="668" />
+    <option name="width" value="796" />
     <option name="height" value="737" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -642,7 +529,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="772" y="23" width="668" height="737" extended-state="0" />
+    <frame x="644" y="23" width="796" height="737" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -652,15 +539,16 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.23076923" side_tool="true" visible="true" weight="0.38249594" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3026166" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.38249594" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7692308" visible="true" weight="0.38249594" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49905124" visible="true" weight="0.19648562" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49905124" visible="true" weight="0.16312997" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.25454545" />
       <window_info anchor="right" id="Gradle" order="6" sideWeight="0.49801588" weight="0.28518972" />
       <window_info id="Structure" order="1" sideWeight="0.5009488" side_tool="true" weight="0.23891273" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -668,28 +556,78 @@
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.433526" />
       <window_info id="Favorites" order="7" sideWeight="0.5009488" side_tool="true" weight="0.23891273" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="DB Browser" order="4" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49905124" visible="true" weight="0.19648562" />
+      <window_info id="Favorites" order="7" sideWeight="0.5009488" side_tool="true" weight="0.23891273" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5019841" side_tool="true" weight="0.16738197" />
+      <window_info anchor="right" id="Gradle" order="6" sideWeight="0.49801588" weight="0.28518972" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.38249594" />
+      <window_info id="Structure" order="1" sideWeight="0.5009488" side_tool="true" weight="0.23891273" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.433526" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32960895" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32656023" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3026166" />
       <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.25454545" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32386363" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32656023" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5019841" side_tool="true" weight="0.16738197" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Designer" order="2" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/REgex.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java" />
     <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
@@ -718,9 +656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,9 +684,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -761,9 +693,192 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/REgex.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/GlobalVar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/Main1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/bankaccontapp/REgex.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/String1Copy.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/CodingBat/RemoveElementCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
