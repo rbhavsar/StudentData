@@ -5,7 +5,8 @@ public class Checking extends Account {
     //List Properties specific to Checking Account
     private int debitCardNumber;
     private int debitCardPIN;
-
+    private int number;
+    private int cal;
 
     //Constructor to initialize checking acconut properties
     public Checking(String name,String ssn,double initDeposit){
