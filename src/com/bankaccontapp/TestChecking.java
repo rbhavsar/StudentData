@@ -7,7 +7,8 @@ public class Checking extends Account {
     private int debitCardPIN;
     private int number;
     private int cal_test;
-    private int cal_test2;
+    private int cal_test3;
+    private int cal_div;
 
     //Constructor to initialize checking acconut properties
     public Checking(String name,String ssn,double initDeposit){
