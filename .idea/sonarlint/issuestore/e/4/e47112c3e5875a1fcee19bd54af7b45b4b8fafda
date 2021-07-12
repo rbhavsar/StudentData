@@ -1,0 +1,14 @@
+
+?
+java:S2140 ")Use "java.util.Random.nextInt()" instead.(ˆÅì¤
+V	java:S125"<This block of commented-out lines of code should be removed.(™Õøÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(¥êá³şÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¶Òİº
+D
+java:S2140!")Use "java.util.Random.nextInt()" instead.(²†Ş©üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(úş™š
+G
+java:S1068"*Remove this unused "number" private field.(òù´Ê8¹¤Å»©/
+t	java:S116	"SRename this field "cal_test" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸»„üÿÿÿÿ8·ÿ½©/
+N
+java:S1068	",Remove this unused "cal_test" private field.(¸»„üÿÿÿÿ8·ÿ½©/

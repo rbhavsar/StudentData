@@ -1,0 +1,19 @@
+
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÂÁ¤ûÿÿÿÿ
+L	java:S106"9Replace this use of System.out or System.err by a logger.(×Ú²³
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(“ˆû„ýÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Ãë‚èÿÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(Áä¯Áûÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(‰Ï—Çùÿÿÿÿ
+=
+java:S2140")Use "java.util.Random.nextInt()" instead.(àÓ¼á
+J
+java:S2696"6Make the enclosing method "static" or remove this set.(Í¶ªì
+L	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûý
+K	java:S106"9Replace this use of System.out or System.err by a logger.(Â¶È}
+L	java:S106"9Replace this use of System.out or System.err by a logger.(´ÐÌ×
+L	java:S106"9Replace this use of System.out or System.err by a logger.(¶¯ñ€
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÝŽ°ûÿÿÿÿ
+T	java:S125"<This block of commented-out lines of code should be removed.(Îµôûøÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(‚ÔÇ¾
+T	java:S125"<This block of commented-out lines of code should be removed.(ñö»øÿÿÿÿ
